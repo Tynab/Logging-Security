@@ -34,18 +34,3 @@ ERROR in ch.qos.logback.core.joran.spi.Interpreter@28:62 - no applicable action 
 	at org.springframework.boot.logging.logback.LogbackLoggingSystem.initialize(LogbackLoggingSystem.java:132)
 	at org.springframework.boot.context.logging.LoggingApplicationListener.initializeSystem(LoggingApplicationListener.java:313)
 	... 23 common frames omitted
-2022-07-13 00:05:41,660 INFO  ?:? - Starting BaiTapNopApplication using Java 17.0.2 on Nephilim with PID 16092 (D:\Project\Cyber Soft\Logging Security\bai_tap_nop\target\classes started by yamia in D:\Project\Cyber Soft\Logging Security\bai_tap_nop)
-2022-07-13 00:05:41,661 DEBUG ?:? - Running with Spring Boot v2.7.1, Spring v5.3.21
-2022-07-13 00:05:41,661 INFO  ?:? - No active profile set, falling back to 1 default profile: "default"
-2022-07-13 00:05:41,697 INFO  ?:? - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2022-07-13 00:05:41,697 INFO  ?:? - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2022-07-13 00:05:42,334 INFO  ?:? - Tomcat initialized with port(s): 8080 (http)
-2022-07-13 00:05:42,340 INFO  ?:? - Initializing ProtocolHandler ["http-nio-8080"]
-2022-07-13 00:05:42,340 INFO  ?:? - Starting service [Tomcat]
-2022-07-13 00:05:42,340 INFO  ?:? - Starting Servlet engine: [Apache Tomcat/9.0.64]
-2022-07-13 00:05:42,370 INFO  ?:? - Initializing Spring embedded WebApplicationContext
-2022-07-13 00:05:42,370 INFO  ?:? - Root WebApplicationContext: initialization completed in 672 ms
-2022-07-13 00:05:42,661 INFO  ?:? - LiveReload server is running on port 35729
-2022-07-13 00:05:42,670 INFO  ?:? - Starting ProtocolHandler ["http-nio-8080"]
-2022-07-13 00:05:42,688 INFO  ?:? - Tomcat started on port(s): 8080 (http) with context path ''
-2022-07-13 00:05:42,695 INFO  ?:? - Started BaiTapNopApplication in 1.23 seconds (JVM running for 1.644)
